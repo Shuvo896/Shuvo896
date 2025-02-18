@@ -19,8 +19,6 @@ Still sort of figuring things out, one overly complicated solution at a time. Si
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shuvo896&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shuvo896&limit=5&theme=dark&combine_all_yearly_contributions=true)
