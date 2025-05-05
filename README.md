@@ -1,7 +1,7 @@
 # 💫 About Me:
 Still sort of figuring things out, one overly complicated solution at a time. Simplifying as I learn and getting better every day. I tend to overthink, break things, and then fix them (usually better than before). Building cool stuff, learning new tricks, and occasionally staring at code like it’s a puzzle I forgot how to solve. Progress might be messy, but that’s where the fun is.
 
-# 🦉 Hey! this is literally my website:
+# 🦉 Hey! This is literally my website:
 https://www.ash-portfolio-one.vercel.app/
 
 
