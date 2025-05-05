@@ -1,6 +1,9 @@
 # 💫 About Me:
 Still sort of figuring things out, one overly complicated solution at a time. Simplifying as I learn and getting better every day. I tend to overthink, break things, and then fix them (usually better than before). Building cool stuff, learning new tricks, and occasionally staring at code like it’s a puzzle I forgot how to solve. Progress might be messy, but that’s where the fun is.
 
+# 🦉 Hey! this is literally my website:
+ash-portfolio-one.vercel.app
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashraful.alam.shuvo.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mrrelaxedash/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrafulalamshuvo1222/) 
